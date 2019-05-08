@@ -1,6 +1,6 @@
 # SwimmingWearable Android Application Readme file
 
-## More in depth documentation available on the wiki
+### More in depth documentation available on the wiki
 
 The application was designed to be carefully partitioned, each class handles a specific aspect of the app, generally a single page and its functionality.
 Functions were named to be descriptive and have comments explaining their functionality, and hopefully you will find behavior obvious.
