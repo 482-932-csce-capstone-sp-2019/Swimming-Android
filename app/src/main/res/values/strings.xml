@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Swimming Wearable</string>
+
+     <string-array name="strokes_array">
+        <item>Freestyle</item>
+        <item>Breast</item>
+        <item>Back</item>
+        <item>Butterfly</item>
+    </string-array>
+
+</resources>
